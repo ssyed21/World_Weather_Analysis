@@ -1,0 +1,28 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+21,Upernavik,GL,10.33,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
+31,Barrow,US,14.0,clear sky,71.2906,-156.7887,King Eider Inn
+37,Malinovoye Ozero,RU,19.27,scattered clouds,51.6753,79.7825,"Kemping ""Malinovoye Ozero"""
+39,Semey,KZ,19.4,mist,50.4111,80.2275,Hotel Zhana-Tau
+68,Derzhavinsk,KZ,11.91,overcast clouds,51.1,66.3167,Ooo.khim Baza
+137,Ilulissat,GL,17.6,overcast clouds,69.2167,-51.1,Hotel Arctic
+143,Amga,RU,15.39,overcast clouds,60.8953,131.9608,Algys
+159,Bayevo,RU,10.51,broken clouds,53.2833,80.7667,Гостиница «Кулунда»
+175,Longyearbyen,SJ,19.4,few clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+189,Novopokrovka,UA,15.8,clear sky,49.8425,36.5477,Пудж дом
+193,Tasiilaq,GL,13.98,light snow,65.6145,-37.6368,The Red House
+232,Atbasar,KZ,13.95,light snow,51.8,68.3333,"The Ritz-Carlton, Astana"
+276,Nome,US,19.4,overcast clouds,64.5011,-165.4064,Dredge 7 Inn
+284,Fort Nelson,CA,19.4,few clouds,58.8053,-122.7002,The Fort Nelson Hotel
+359,Mehamn,NO,13.89,overcast clouds,71.0357,27.8492,Mehamn Arctic Hotel AS
+361,Snasa,NO,10.81,scattered clouds,64.2457,12.3778,Snåsa Hotell AS
+364,Whitehorse,CA,19.4,broken clouds,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
+369,Haines Junction,CA,15.8,scattered clouds,60.7522,-137.5108,Parkside Inn
+383,Svetlogorsk,BY,14.85,clear sky,52.6333,29.7333,Hotel Svetlogorsk JBIK
+389,Mazyr,BY,18.12,clear sky,52.0495,29.2456,Euro Mini-Hotel
+454,Qasigiannguit,GL,17.6,overcast clouds,68.8193,-51.1922,Hotel Discobay
+489,Suntar,RU,11.28,overcast clouds,62.1444,117.6319,Дом у Мамы
+518,Klyuchi,RU,13.42,broken clouds,52.2667,79.1667,Vesolaya Mayovka
+590,Vengerovo,RU,10.29,overcast clouds,55.6848,76.7471,Gostinitsa
+626,Sisimiut,GL,18.7,light snow,66.9395,-53.6735,Hotel Sisimiut
+629,Leh,IN,14.7,scattered clouds,34.1667,77.5833,Hotel Ladakh Greens
+631,Ostersund,SE,12.2,broken clouds,63.1792,14.6357,Best Western Hotel Gamla Teatern
